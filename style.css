@@ -1,0 +1,67 @@
+html {
+    background:gray;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 35px;
+    padding: 35px;
+    color: #242424;
+    background:whitesmoke; 
+}
+ 
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+    
+}
+
+p {
+    line-height: 1.5em;
+}
+
+#blogs {
+    border-top: 3px dotted #ccc;
+}
+
+.blog-post {
+    border-bottom: 3px dotted #ccc;
+}
+
+#form { 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1em;
+    color: crimson;
+    border: 1.5px solid black;
+    margin: 3px;
+    text-align: center;
+}
+
+table {
+    border: 3px solid black;
+    margin: 0;
+}
+
+form {
+    line-height: 3em;
+    font-size: 1.05em;
+    margin: 0;
+}
+
+.Biography {
+    line-height: 1.5em;
+}
+body[rel="index"] {
+    border-top: 10px solid black;
+}
+body[rel="bio"] {
+    border-top: 10px solid green;
+}
+body[rel="contact"] {
+    border-top: 10px solid blue;
+}
+a[href="https://facebook.com/Andrew_ruf"] {
+    color: red;
+}
+
+
