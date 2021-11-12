@@ -93,4 +93,20 @@ a[href="https://facebook.com/Andrew_ruf"] {
     color: red;
 }
 
-
+@media (max-width: 700px) {
+    #blogs {
+        display: inline;
+    }
+    #table {
+        display: inline;
+    }
+    #form {
+        display: inline;
+    }
+    #contact-form {
+        display: inline;
+    }
+    .biography {
+        display: inline;
+    }
+}    
